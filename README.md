@@ -35,7 +35,7 @@ This tool helps optimize delivery efficiency, reduce operational costs, and impr
 - CORS for secure API access
 
 ### **DevOps & Deployment**
-- **Frontend:** Vercel / Netlify
+- **Frontend:** [Vercel link ] (https://purple-greencart-lilac.vercel.app/)
 - **Backend:** Render / Railway
 - **Database:** MongoDB Atlas
 - Environment variables via `.env` (excluded in `.gitignore`)
